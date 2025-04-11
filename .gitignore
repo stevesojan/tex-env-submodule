@@ -2,10 +2,10 @@ temp/
 tlpkg/
 .tinytex
 install-tl
-install-tl-windows
+install-tl-windows.bat
 LICENSE.CTAN
 LICENSE.TL
-release-texlive
+release-texlive.txt
 texmf.cnf
-texmfcnf
-tl-tray-menu
+texmfcnf.lua
+tl-tray-menu.exe
