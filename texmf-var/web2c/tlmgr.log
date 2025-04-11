@@ -1,0 +1,28 @@
+[Thu Mar 13 22:12:33 2025] install: colortbl
+[Thu Mar 13 22:12:34 2025] install: fancyhdr
+[Thu Mar 13 22:12:36 2025] install: lastpage
+[Thu Mar 13 22:12:40 2025] install: multirow
+[Thu Mar 13 22:12:42 2025] install: needspace
+[Thu Mar 13 22:12:44 2025] install: parskip
+[Thu Mar 13 22:12:44 2025] command: mktexlsr
+[03-04-2025 23:24:38.34] self update: texlive.infra (74241 -> 74703) texlive.infra.windows (73796 -> 74666)
+[Thu Apr  3 23:25:53 2025] update: babel (74566 -> 74774)
+[Thu Apr  3 23:25:57 2025] update: dvipdfmx.windows (73949 -> 74684)
+[Thu Apr  3 23:26:12 2025] update: luahbtex.windows (74518 -> 74680)
+[Thu Apr  3 23:26:26 2025] update: luatex.windows (74518 -> 74680)
+[Thu Apr  3 23:26:29 2025] update: needspace (29601 -> 74631)
+[Thu Apr  3 23:26:32 2025] update: texlive-scripts.windows (73796 -> 74627)
+[Thu Apr  3 23:26:35 2025] failed update: texlive-scripts (74597 -> 74821)
+[Thu Apr  3 23:26:35 2025] failed restore: texlive-scripts (74597)
+[Thu Apr  3 23:26:54 2025] update: tlgs.windows (72323 -> 74698)
+[Thu Apr  3 23:27:17 2025] update: xetex.windows (74518 -> 74724)
+[Thu Apr  3 23:27:17 2025] command: mktexlsr
+[Thu Apr  3 23:27:17 2025] command: updmap-sys
+[Thu Apr  3 23:27:17 2025] command: fmtutil-sys --byengine luatex --no-error-if-no-format --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\Steve\AppData\Local\Temp\HwF14A4OyZ\ADDWFQEs8u
+[Thu Apr  3 23:27:18 2025] command: fmtutil-sys --byengine luahbtex --no-error-if-no-format --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\Steve\AppData\Local\Temp\HwF14A4OyZ\ADDWFQEs8u
+[Thu Apr  3 23:27:18 2025] command: fmtutil-sys --byengine xetex --no-error-if-no-format --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\Steve\AppData\Local\Temp\HwF14A4OyZ\ADDWFQEs8u
+[Thu Apr  3 23:27:18 2025] command: fmtutil-sys --byfmt latex --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\Steve\AppData\Local\Temp\HwF14A4OyZ\ADDWFQEs8u
+[Thu Apr  3 23:27:18 2025] command: fmtutil-sys --byfmt pdflatex --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\Steve\AppData\Local\Temp\HwF14A4OyZ\ADDWFQEs8u
+[Thu Apr  3 23:28:17 2025] install: texlive-scripts
+[Thu Apr  3 23:28:17 2025] command: mktexlsr
+[Thu Apr  3 23:28:17 2025] command: updmap-sys

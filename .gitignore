@@ -1,0 +1,11 @@
+temp/
+tlpkg/
+.tinytex
+install-tl
+install-tl-windows
+LICENSE.CTAN
+LICENSE.TL
+release-texlive
+texmf.cnf
+texmfcnf
+tl-tray-menu
